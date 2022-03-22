@@ -1,3 +1,3 @@
 api_auth = {
-    'api-key':'AIzaSyCl1oEBjr8GV5Ykf-eNZtqouwHdzrFwDUs'
+    'api-key':'for-safety-reasons-deleted'
 }
